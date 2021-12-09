@@ -1,6 +1,6 @@
 # JS-fonctions-a-parametres-variables
 
-1. Créez une fonction à paramètres variable qui retourne une chaîne de caractères contenant "Bojour " + les valeurs de chaque paramètre
+1. Créez une fonction à paramètres variable qui retourne une chaîne de caractères contenant "Bonjour " + les valeurs de chaque paramètre
     
     - Résultat attendu : Bonjour param1, param2, param3
     - Invoquez la fonction deux fois, avec à chaque fois un nombre de paramètres différent
@@ -13,9 +13,6 @@
     
 
 3. Faites exactement la même chose que le point deux, mais cette fois, retournez la valeur de la somme multipliée par 11.76, ne gardez que la partie entière
-
-   
-
 
 
 Invoquez toutes vos fonctions et testez les dans le navigateur, les messages devront s'afficher dans un paragraphe que
